@@ -1,6 +1,6 @@
 - Hi, I’m @aviral5rivastava
 - I’m interested in web development
-- I’m currently learning ReactJS
+- I’m currently learning NextJS
 - I’m looking to collaborate on web development projects
 
 
